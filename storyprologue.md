@@ -12,5 +12,6 @@ choses qui constituent votre passé sont toutes reliées à un dojo où vous sem
 incroyablement petit ). Ce dojo acceuillait d'autres canards et les formait pour devenir des apprentis puis maîtres samouraïs. Un
 jour vous avez décidé de quitter la planète afin de voyager et d'en découvrir plus sur vous même. Votre ancien maître, le canard WC, comprenais votre choix. Il vous à donc lancé dans cette aventure en vous fournissant un vaisseau avec l'équipement qui suivait mais surtout un piste pour vos origines. **L'être vous ayant déposé dans ce dojo était couvert d'un voile noir mais possèdais des grandes cornes oranges**. Il ne vous en fallait pas plus pour vous motiver à partir à l'aventure.
 ### Fin page 2
-* Comment avons nous pu finir ici
+* Comment avons nous pu finir ici alors ?
 ### Page 3
+Déjà tu va te calmer. C'est moi qui raconte l'histoire ici.
