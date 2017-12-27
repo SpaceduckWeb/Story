@@ -20,7 +20,7 @@ Il fallait **bien prévoir son coup** avant de s'attaquer à n'importe quel infr
 ### Fin page 5
 * ==>
 ### Page 6
-D'abord, commencer par désactiver les sécurités: Caméra, alerte, système de défense. Aucun problème avec les pouvoirs psychiques de votre sage acolyte. Ensuite, équipé d'explosifs, faire diversion avec un maximum de bruit les gardes pendant que vous vous infiltrez dans la partie abandonnée du site. Plus qu'a vous frayer un chemin vers les salles de stockage, prendre ce qui vous intêresse et déguerpir avant l'arrivé des renforts. Oui, **avant l'arrivée des renfort**.
+D'abord, commencer par désactiver les sécurités: Caméra, alerte, système de défense. Aucun problème avec les pouvoirs psychiques de votre sage acolyte. Ensuite, équipé d'explosifs, faire diversion avec un maximum de bruit pour attirer les gardes pendant que vous vous infiltriez dans la partie abandonnée du site. Plus qu'à vous frayer un chemin vers les salles de stockage, prendre ce qui vous intêresse et déguerpir avant l'arrivée des renforts. Oui, **avant l'arrivée des renfort**.
 ### Fin page 6
 * ...
 ### Page 7
