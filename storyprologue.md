@@ -12,3 +12,15 @@ Déjà tu va te calmer. C'est moi qui raconte l'histoire ici.
 ### Fin page 3
 * Ok ok
 ### Page 4
+Le **Dutrinium**. Vous aviez pris le risque d'aller en voler dans les centres de récoltes radioactifs de la fédération, et bien sûr cela à mal tourné. Son prix est incroyablement élevé et votre budjet incroyablement pourri. Avec ça vous auriez pu partir faire vos recherches dans une autre galaxie mais c'est n'était pas aussi simple que ça.
+### Fin page 4
+* ==>
+### Page 5
+Il fallait **bien prévoir son coup** avant de s'attaquer à n'importe quel infrastructure de la fédération mais, grâce à la **sagesse et l'intelligence** de Jean-Pierre, vous aviez le plan **parfait**.
+### Fin page 5
+* ==>
+### Page 6
+D'abord, commencer par désactiver les sécurités: Caméra, alerte, système de défense. Aucun problème avec les pouvoirs psychiques de votre sage acolyte. Ensuite, équipé d'explosifs, faire diversion avec un maximum de bruit les gardes pendant que vous vous infiltrez dans la partie abandonnée du site. Plus qu'a vous frayer un chemin vers les salles de stockage, prendre ce qui vous intêresse et déguerpir avant l'arrivé des renforts. Oui, **avant l'arrivée des renfort**.
+### Fin page 6
+* ...
+### Page 7
