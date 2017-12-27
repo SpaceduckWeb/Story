@@ -16,7 +16,7 @@ Le **Dutrinium**. Vous aviez pris le risque d'aller en voler dans les centres de
 ### Fin page 4
 * ==>
 ### Page 5
-Il fallait **bien prévoir son coup** avant de s'attaquer à n'importe quel infrastructure de la fédération mais, grâce à la **sagesse et l'intelligence** de Jean-Pierre, vous aviez le plan **parfait**.
+**Bien prévoir son coup** était crucial avant de s'attaquer à n'importe quel infrastructure de la fédération mais, grâce à la **sagesse et l'intelligence** de Jean-Pierre, vous aviez le plan **parfait**.
 ### Fin page 5
 * ==>
 ### Page 6
