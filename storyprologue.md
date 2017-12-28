@@ -12,7 +12,7 @@ Déjà tu va te calmer mon petit bonhomme. C'est moi qui raconte l'histoire ici.
 ### Fin page 3
 * Ok ok
 ### Page 4
-Le **Dutrinium**. Vous aviez pris le risque d'aller en voler dans les centres de récoltes radioactifs de la fédération, et bien sûr cela à mal tourné. Son prix est incroyablement élevé et votre budjet incroyablement pourri. Avec ça vous auriez pu partir faire vos recherches dans une autre galaxie mais c'est n'était pas aussi simple que ça.
+C'était 15 ans après votre rencontre avec Jean-Pierre. Le **Dutrinium**. Vous aviez pris le risque d'aller en voler dans les centres de récoltes radioactifs de la fédération, et bien sûr cela à mal tourné. Son prix est incroyablement élevé et votre budjet incroyablement pourri. Avec ça vous auriez pu partir faire vos recherches dans une autre galaxie mais c'est n'était pas aussi simple que ça.
 ### Fin page 4
 * ==>
 ### Page 5
@@ -20,7 +20,15 @@ Le **Dutrinium**. Vous aviez pris le risque d'aller en voler dans les centres de
 ### Fin page 5
 * ==>
 ### Page 6
-D'abord, Il fallait commencer par désactiver les sécurités: Caméra, alerte, système de défense. Aucun problème avec les pouvoirs psychiques de votre sage acolyte. Ensuite, équipé d'explosifs, faire diversion avec un maximum de bruit pour attirer les gardes pendant que vous vous infiltriez dans la partie abandonnée du site. Plus qu'à vous frayer un chemin vers les salles de stockage, prendre ce qui vous intêresse et déguerpir avant l'arrivée des renforts. Oui, **avant l'arrivée des renfort**.
+D'abord, Il fallait commencer par désactiver les sécurités : Caméra, alerte, système de défense. Aucun problème avec les pouvoirs psychiques de votre sage acolyte. Ensuite, équipé d'explosifs, faire diversion avec un maximum de bruit pour attirer les gardes pendant que vous vous infiltriez dans la partie abandonnée du site. Plus qu'à vous frayer un chemin vers les salles de stockage, prendre ce qui vous intêresse et déguerpir avant l'arrivée des renforts. Oui, **avant l'arrivée des renfort**.
 ### Fin page 6
 * ...
 ### Page 7
+Pour résumer, La diversion et l'infiltration se déroule sans accros : Jean-Pierre lance puis fait exploser les explosifs dans le centre pendant que vous percez avec un laser de poche le mur de la partie désafectée de l'usine. Un fois arrivé dans la zone de stockage ( deserte, bien entendu ). vous vous empressez de récuperer le dutrinium nécéssaire seulement... 
+### Fin page 7
+* Suspens/20
+### Page 8
+Une alarme retentit directement après avoir décoché la première capsule de ce fameux carburant! À partir de maintenant, vous vous en doutez, votre plan tourne au vinaigre : Affolé, vous vous empressez de remplir votre sac des capsules restantes et de fuir rejoindre votre compère de toujours. Deux gardes vous surprennent dans une allée vers la sortie. Seulement équipés de fusils arcaïc, vous en faites qu'une bouchée avec votre long sabre : vous bondissez sur le premier pour lui trancher la tête puis utilisez son corps pour vous protèger des tirs du deuxième garde. Vous lancez le cadavre décapité sur ce dernier et l'achevez d'un piqué dans le le cœur. Après ce court combat, vous apercevez Jean-Pierre à l'exterieur du complexe entouré de gardes de la fédération. Le sage homme ressentait votre **ki** et comprenait que vous étiez face à un choix difficile. Pour vous, il était impensable de vous séparer d'Elkabbach. Vous vous êtes donc rendu... Mais ça vous le savez déjà.
+### Fin page 9
+* Bon, et maintenant?
+### Page 10
