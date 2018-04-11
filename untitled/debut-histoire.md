@@ -1,7 +1,3 @@
----
-description: Page 2
----
-
 # 1.002
 
 ### Page 2 {#page-2}
@@ -10,5 +6,5 @@ Vous n'avez pas vraiment de nom, vous êtes justement à la recherche de vos ori
 
 ### Fin page 2 {#fin-page-2}
 
-* Comment avons nous pus finir ici alors ?
+* Comment avons nous pu finir ici alors ?
 
