@@ -1,4 +1,4 @@
-# Prologue
+# 1 - Prologue
 
 
 
@@ -6,13 +6,7 @@
 
 ## Prologue {#prologue}
 
-#### Page 1 {#page-1}
-
-Vous aviez préparé ce jour depuis longtemps. Vous, le canard samuraï, êtes resté trop longtemps enfermé dans cette prison au fin-fond de l'univers. Ils ont votre vaisseau, votre équipement de samouraï mais surtout votre fidèle acolyte Jean-Pierre Elkabbach. Il est enfermé dans une salle créée spécialment pour bloquer ses capacités psychiques. Vous enfuir n'est pas une option, les préparatifs de votre évasion sont bientôt terminés. Seulement... qui êtes vous réellement?
-
-#### Fin page 1 {#fin-page-1}
-
-* Transition/20
+####  {#page-1}
 
 #### Page 2 {#page-2}
 
