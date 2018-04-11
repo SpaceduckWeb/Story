@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [SALUT LES BOIZZZ](README.md)
 * [Untitled](untitled.md)
 
