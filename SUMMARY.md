@@ -12,4 +12,7 @@
   * [1.008](untitled/1.008.md)
   * [1.009](untitled/1.009.md)
   * [1.010](untitled/1.010.md)
+  * [1.011](untitled/1.011.md)
+  * [1.012](untitled/1.012.md)
+  * [1.013](untitled/untitled-1.md)
 
