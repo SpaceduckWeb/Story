@@ -4,9 +4,5 @@
 
 Dialogue : Canard Samouraï / Jean-Pierre
 
-{% tabs %}
-{% tab title="First Tab" %}
-CS : 
-{% endtab %}
-{% endtabs %}
+
 
